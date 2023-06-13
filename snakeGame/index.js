@@ -14,7 +14,7 @@ let snakeLength = 0;
 let snakeTailX = [];
 let snakeTailY = [];
 
-
+// siemka
 snakeX = 10 * BLOCK_SIZE;
 snakeY = 10 * BLOCK_SIZE;
 fruitX = fruitXrandom * BLOCK_SIZE;
